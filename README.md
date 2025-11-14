@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...salesforce developement
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- Lightning Web Components
 
 <!---
 MalleshMekala/MalleshMekala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
